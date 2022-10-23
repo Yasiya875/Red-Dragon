@@ -32,7 +32,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94728803027'] // owner number
 global.ownername = "😎yasiya❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: yasiya" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -198,7 +198,7 @@ global.rep = { // All Replies = 145
     K34: '😇මොකො හූම් ගාන්නෙ😒 බකමූනා',
     K35: '​😁😁මොකෝ හලෝ හූම් හූම් ගාන්නෙ?',
     K36: '😉නෑ අනේ මුකුත් නෑ😐🫠',
-    K37: '😒ආහ්',
+    K37: '😒ආහ්',.
     K38: '✌️ඔව් නං එච්චරයි😌',
     K39: '😐හේ හේ නැද්ද?🫣',
     K40: '🙄මොනවටද ආස?',
